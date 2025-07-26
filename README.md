@@ -6,8 +6,9 @@ Este é um projeto de **tela de login moderna** feita com HTML5, CSS3 e a biblio
 
 ## 📸 Prévia do Projeto
 
-![Tela de Login Estrelada](https://login-smoky-three.vercel.app)
+## 📸 Prévia do Projeto
 
+🔗 Acesse aqui: [https://login-smoky-three.vercel.app/](https://login-smoky-three.vercel.app/)
 ---
 
 ## 🚀 Funcionalidades
