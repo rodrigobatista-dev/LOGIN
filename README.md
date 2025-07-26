@@ -6,7 +6,7 @@ Este é um projeto de **tela de login moderna** feita com HTML5, CSS3 e a biblio
 
 ## 📸 Prévia do Projeto
 
-![Tela de Login Estrelada](https://login-smoky-three.vercel.app/)
+![Tela de Login Estrelada](https://login-smoky-three.vercel.app)
 
 ---
 
@@ -42,5 +42,5 @@ Este é um projeto de **tela de login moderna** feita com HTML5, CSS3 e a biblio
 Rodrigo Batista Leite
 Desenvolvedor em transição de carreira, apaixonado por tecnologia e sempre buscando evoluir.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rodrigobatistaleite)
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-batista-leite)
 📧 rodrigobatista03@gmail.com
